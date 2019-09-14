@@ -1,0 +1,16 @@
+body {
+  background-color: #fff;
+}
+
+html {
+  font-size: 3vmax;
+}
+
+div {
+  font-size: 2rem;
+}
+
+.strong {
+  background-color: #fff;
+  color: #000;
+}

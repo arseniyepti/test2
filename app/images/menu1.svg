@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="13" viewBox="0 0 20 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="my_vector_mask_shape" class="cls-1" d="M0,0H20V3H0V0ZM0,5H20V8H0V5Zm0,5H20v3H0V10Z"/>
+</svg>
